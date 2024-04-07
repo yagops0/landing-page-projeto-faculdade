@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #efd870;
+}
+
+.page{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoText{
+    width: 120px;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+    color: #492701;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    padding: 10px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #6d3d07;
+}
+
+.navbar ul li a:hover{
+    background-color: #af712a;
+}
+
+.cardapio-menu{
+    position: absolute;
+    box-shadow: 0 0 2px #af712a;
+    display: none;
+}
+
+.cardapio-menu a{
+    display: block;
+    color: #af712a;
+}
+
+.cardapio-dropdown:hover .cardapio-menu{
+    display: block;
+}
+
