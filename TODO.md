@@ -18,6 +18,8 @@
 - https://studiovisual.com.br/como-colocar-whatsapp-no-site#:~:text=Para%20integrar%2C%20basta%20copiar%20o,5511%20(n%C3%BAmero%20do%20celular) - WHATSAPP + HTML
 - https://blog.duda.co/pt-br/adicionar-google-maps-no-site - GOOGLE MAPS + HTML
 - https://youtu.be/dWbSrh5iVRQ?si=sxDYVB4tTbnvmJPf - VÍDEO DROPDOWN HTML
+- https://www.youtube.com/watch?v=NvnJRLTG_5Y&t=1s - VÍDEO TUTORIAL GRID
+
 
 
 # CORES
