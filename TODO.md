@@ -19,10 +19,14 @@
 - https://blog.duda.co/pt-br/adicionar-google-maps-no-site - GOOGLE MAPS + HTML
 - https://youtu.be/dWbSrh5iVRQ?si=sxDYVB4tTbnvmJPf - VÍDEO DROPDOWN HTML
 - https://www.youtube.com/watch?v=NvnJRLTG_5Y&t=1s - VÍDEO TUTORIAL GRID
+- https://www.iconfinder.com/iconsets/2018-social-media-logotypes - ÍCONES
 
 
 
-# CORES
+# PALETA DE CORES
 
-- #E1A735 - AMARELO
-- #763C00 - MARROM
+- AUREOLIN: #F4E409
+- SAFFRON: #EEBA0B
+- OCHRE: #C36F09
+- BROWN: #A63C06
+- BLOOD RED: #710000

@@ -6,7 +6,7 @@
 }
 
 body{
-    background: #efd870;
+    background: #E1A735;
 }
 
 .page{
@@ -16,13 +16,19 @@ body{
     background-size: cover;
 }
 
+.navbar img{
+    border-radius: 50%;
+    width: 75px;
+}
+
 .navbar{
+    font-size: larger;
     width: 85%;
     margin: auto;
     padding: 35px 0;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .logoText{
@@ -30,7 +36,7 @@ body{
     font-size: larger;
     font-weight: bold;
     cursor: pointer;
-    color: #492701;
+    color: #763C00;
 }
 
 .navbar ul li{
@@ -43,7 +49,7 @@ body{
 
 .navbar ul li a{
     text-decoration: none;
-    color: #6d3d07;
+    color: #763C00;
 }
 
 .navbar ul li a:hover{
