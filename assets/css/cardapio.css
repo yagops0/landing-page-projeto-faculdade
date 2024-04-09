@@ -6,6 +6,7 @@
 }
 
 body{
+    text-align: center;
     background: #E1A735;
 }
 
@@ -71,3 +72,16 @@ body{
     display: block;
 }
 
+.cardapio-grid{
+    display: grid;
+    border: 1px solid #000;
+    border-width: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    gap: 10px;
+    
+}
+
+.footer{
+    text-align: center;
+}

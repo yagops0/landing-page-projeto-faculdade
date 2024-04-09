@@ -64,39 +64,47 @@ body{
     
 }
 
-.page h1{
-    color: #8a5416;
-    text-align: center;
-}
 
-.conteudo-grid{
+
+.conteudo{
+    border: 2px solid #000;
+    /*background-color: red;*/
     display: grid;
     place-items: center;
-    grid-template-columns: 100px 200px 200px;
-    grid-template-rows: repeat(3, 100px) 150px;
-    gap: 70px;
+    grid-template-columns: 500px 500px 500px;
+    grid-template-rows: 1fr 150px 1fr;
+    gap: 5px;
+
 }
 
-.conteudo-grid .conteudo-inicio{
-    grid-column: 1/5;
+
+.conteudo .inicio{
+     
     grid-row: 1;
+    grid-column: 2;
 }
 
-.conteudo-grid .conteudo-sobre{
-    text-align: end;
-    grid-column: 3/5;
+.conteudo .sobre{
     grid-row: 2;
+    grid-column: 2;
 }
 
-.conteudo-grid .conteudo-horario{
-    grid-column: 3;
+.conteudo .horario{
     grid-row: 3;
+    grid-column: 2;
 }
 
-.conteudo-horario ul li{
+.horario ul li{
     list-style: none;
-    display: inline-block;
+}
 
+.imagem-grid img{
+    width: 400px;
+}
+
+.conteudo .imagem-grid{
+    grid-row: 1;
+    grid-column: 3;
 }
 
 .footer{
