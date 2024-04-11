@@ -20,6 +20,7 @@
 - https://youtu.be/dWbSrh5iVRQ?si=sxDYVB4tTbnvmJPf - VÍDEO DROPDOWN HTML
 - https://www.youtube.com/watch?v=NvnJRLTG_5Y&t=1s - VÍDEO TUTORIAL GRID
 - https://www.iconfinder.com/iconsets/2018-social-media-logotypes - ÍCONES
+- https://www.w3schools.com/howto/howto_css_cards.asp - EXEMPLOS CARDS
 
 
 
