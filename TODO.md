@@ -30,4 +30,5 @@
 - SAFFRON:      #EEBA0B
 - OCHRE:        #C36F09
 - BROWN:        #A63C06
+- VARIAÇÃO MARROM: #5f290d
 - BLOOD RED:    #710000
