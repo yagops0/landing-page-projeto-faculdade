@@ -177,6 +177,12 @@ body{
 .footer p a{
     text-decoration: none;
     color: #512c03;
+    font-size: 18px;
+}
+
+.footer p a:hover{
+    color: #221301;
+    
 }
 
 .footer{
@@ -196,7 +202,7 @@ body{
 }
 
 .footer p{
-    padding: 1em;
+    padding: 1%;
 }
 
 
